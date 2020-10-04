@@ -1,9 +1,9 @@
 # Raven
 A competitive 1v1 specialist for robocode
 
+<pre>
 Licenced under the  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
-<pre>
 Licence summary:
 Under this licence you are free to:
      Share : copy and redistribute the material in any medium or format
