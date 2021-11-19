@@ -1,7 +1,7 @@
 # Raven
 A competitive 1v1 specialist for robocode
 
-Raven can be seen in [literumble 1v1 rankings](http://literumble.appspot.com/Rankings?game=roborumble). (Currently 10th best in the world)
+Raven can be seen in [literumble 1v1 rankings](http://literumble.appspot.com/Rankings?game=roborumble). (Currently 7th best in the world)
 
 <pre>
 Licenced under the  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
